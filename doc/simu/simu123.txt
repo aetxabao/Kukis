@@ -1,0 +1,146 @@
+####################################################################
+#   PROGRAMA  DE  GESTIÓN  DE  KUKIS  DE  SESIONES  DE  USUARIOS   #
+####################################################################
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 1
+
+Id de usuario: aetxabao
+Id de sesión: d519dca360045364abdb0b38f381f57bb1173106
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 1
+
+Id de usuario: lozancre
+Id de sesión: null
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 2
+
+Id de usuario: lozancre
+Id de sesión: a2fd2935400f0f0ad98416f7c89340dc65053c01
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 2
+
+Id de usuario: asdfgh
+Id de sesión: null
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 2
+
+Id de usuario: aetxabao
+Id de sesión: e1aefa8b7ac1c1535acca1da18a8ec070cfff09f
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 3
+
+Se han eliminado 5 sesiones caducadas.
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 1
+
+Id de usuario: aetxabao
+Id de sesión: e1aefa8b7ac1c1535acca1da18a8ec070cfff09f
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 1
+
+Id de usuario: jsotera
+Id de sesión: null
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 0
+
+
+Process finished with exit code 0

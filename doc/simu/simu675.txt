@@ -1,0 +1,143 @@
+####################################################################
+#   PROGRAMA  DE  GESTIÓN  DE  KUKIS  DE  SESIONES  DE  USUARIOS   #
+####################################################################
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 6
+
+No hay ocurrencias.
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 7
+
+AMCHP - Amazfit Cheetah Pro 47
+AMGT3 - Amazfit GTR 3
+APWA2 - Apple Watch 2
+APWU2 - Apple Watch Ultra 2
+GARIE - Garmin Instinct E
+GOFV4 - Google Fitbit Versa 4
+GOPW3 - Google Pixel Watch 3
+HUG5P - Huawei GT 5 Pro
+HUGT4 - Huawei GT 4
+MBTWA - TicWatch Atlas
+SAG7L - Samsung Galaxy Watch 7 LTE
+SU7WH - Suunto 7 White
+XIWA2 - Xiaomi Watch 2
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 5
+
+Id de usuario: aetxabao
+Id de item: XIWA2
+Item introducido.
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 6
+
+Xiaomi Watch 2
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 5
+
+Id de usuario: jsotera
+Id de item: MBTWA
+Item introducido.
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 5
+
+Id de usuario: aetxabao
+Id de item: MBTWA
+Item introducido.
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 6
+
+TicWatch Atlas
+Xiaomi Watch 2
+
+1. Obtener id de sesión de un usuario
+2. Crear una kuki de sesión para un usuario
+3. Eliminar kukis y sesiones caducadas o huerfanas
+4. Mostrar el id seguido del nombre de los items
+   ordenados alfabéticamente sin repetir filtrados por un texto
+5. Introducir un nuevo item en los intereses de un usuario
+6. Mostrar el nombre de los items
+   sobre los que todos los usuarios tienen interés
+   ordenados alfabéticamente sin repetir
+7. Mostrar el id y nombre de los items que no interesan a nadie
+0. Exit
+Opción [0,7]: 0
+
+
+Process finished with exit code 0

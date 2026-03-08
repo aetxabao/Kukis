@@ -1,0 +1,68 @@
+@startuml
+class Usuario {
+- String id
+- String nombre
+- String perfil
+- String idSesion
++ <<Create>> Usuario(String,String,String,String)
++ <<Create>> Usuario()
++ {static} Usuario fromCsv(String)
++ String getId()
++ void setId(String)
++ String getNombre()
++ void setNombre(String)
++ String getPerfil()
++ void setPerfil(String)
++ String getIdSesion()
++ void setIdSesion(String)
++ String toJson()
++ String toCsv()
++ String toString()
++ {static} void main(String[])
+}
+
+
+class Item {
+- String id
+- String nombre
+- int precio
++ <<Create>> Item(String,String,int)
++ <<Create>> Item()
++ {static} Item fromCsv(String)
++ String getId()
++ void setId(String)
++ String getNombre()
++ void setNombre(String)
++ int getPrecio()
++ void setPrecio(int)
++ boolean equals(Object)
++ int hashCode()
++ String toCsv()
++ String toString()
+}
+
+
+class Kuki {
+- {static} long TIEMPO_PARA_VIVIR
+- String id
+- long fecha
+- long vida
++ <<Create>> Kuki(String,long,long)
++ <<Create>> Kuki(String,String,long)
++ <<Create>> Kuki(String)
++ <<Create>> Kuki()
++ {static} Kuki fromCsv(String)
++ String getId()
++ void setId(String)
++ long getFecha()
++ void setFecha(long)
++ long getVida()
++ void setVida(long)
++ String toCsv()
++ String toString()
++ {static} void main(String[])
+}
+
+Usuario -right-> Kuki
+
+@enduml
