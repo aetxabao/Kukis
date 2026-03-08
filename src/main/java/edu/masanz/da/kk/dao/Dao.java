@@ -6,6 +6,11 @@ import edu.masanz.da.kk.utils.Security;
 
 import static edu.masanz.da.kk.conf.Ini.*;
 
+/**
+ * Dao es la clase que simula la base de datos. Contiene colecciones que almacenan los datos y métodos para acceder a ellos.
+ * En este ejercicio, se pide implementar los métodos de esta clase para que el programa funcione correctamente.
+ * @author TODO: 10 AQUÍ PON TU NOMBRE
+ */
 public class Dao {
 
     // region Colecciones que simulan la base de datos
